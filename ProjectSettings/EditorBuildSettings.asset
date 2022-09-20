@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Other/Home Page.unity
+    guid: ac6d2c0b7cad94fb39b8ecbafb890dc6
+  - enabled: 1
+    path: Assets/Scenes/Other/Start Screen.unity
+    guid: b9008b1040d6f42488b46d0aceda20b4
+  - enabled: 1
+    path: Assets/Scenes/Other/Win Screen.unity
+    guid: df87c34f8bc044103b51e0f330be9a06
+  - enabled: 1
+    path: Assets/Scenes/Other/Game Over.unity
+    guid: 58cb9b6ad68d044acbdf61cd09f2c636
+  - enabled: 1
+    path: Assets/Scenes/Levels/Monochrome.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Levels/Hell.unity
+    guid: bbd48f7e077b74aa59a6e65474364b48
+  - enabled: 1
+    path: Assets/Scenes/Levels/Checkers.unity
+    guid: 77efb4191b0c4408ebf1e6a93d1ef47a
+  - enabled: 1
+    path: Assets/Scenes/Levels/Rainbow.unity
+    guid: 5c2dfafcb12684de698874ce674fb920
+  - enabled: 1
+    path: Assets/Scenes/Levels/Teleport.unity
+    guid: cc2da7e79625445a795b0f5acfbec365
+  - enabled: 1
+    path: Assets/Scenes/Levels/Sus.unity
+    guid: 49726b9dc19174093904c3cdf2bb33fc
+  - enabled: 1
+    path: Assets/Scenes/Levels/Fenced.unity
+    guid: 987a82263e7bb4158adfa52d7397e689
+  - enabled: 1
+    path: Assets/Scenes/Levels/Core.unity
+    guid: ea705b9e9ddad4675a9308579ff6aac7
+  - enabled: 1
+    path: Assets/Scenes/Levels/Paddels.unity
+    guid: b71d643c367a94c3b801963909aef95f
+  - enabled: 1
+    path: Assets/Scenes/Levels/Torture.unity
+    guid: ed7e11dbb4521469ea36289f541d603c
+  - enabled: 1
+    path: Assets/Scenes/Levels/Acceleration.unity
+    guid: a7f4bec4af89446a69c14b6e5fd7cb3e
+  - enabled: 1
+    path: Assets/Scenes/Levels/Pills.unity
+    guid: fae8bf5db50cd49d5a1cbeac4232c3ae
+  - enabled: 1
+    path: Assets/Scenes/Levels/Invert.unity
+    guid: 61eceed5ce3c74122a01af16ddad64fc
+  - enabled: 1
+    path: Assets/Scenes/Levels/Fade.unity
+    guid: a482afc42e04b46c7884620a4d6c1922
+  - enabled: 1
+    path: Assets/Scenes/Levels/Reverse.unity
+    guid: 55c742f1c8f714a7e88256cdb0fd53b5
+  - enabled: 1
+    path: Assets/Scenes/Levels/Agony.unity
+    guid: 4021f1d34a7384fdfa511d33d7d80d43
+  - enabled: 1
+    path: Assets/Scenes/Levels/Mario.unity
+    guid: 374d30914f6d24520ae05bd07a738733
+  - enabled: 1
+    path: Assets/Scenes/Levels/Sans.unity
+    guid: dac93976c67e7466eba6fe36d2e2fd9c
+  m_configObjects: {}

@@ -1,0 +1,3637 @@
+fileFormatVersion: 2
+guid: 7ff95a7e489884bb5a6de9204e926e79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8919823659396727050
+    second: _boogus_0
+  - first:
+      213: 1974463981813705006
+    second: _boogus_1
+  - first:
+      213: -5873138425541809898
+    second: _boogus_2
+  - first:
+      213: -7329680593234692081
+    second: _boogus_3
+  - first:
+      213: -8993105773701798575
+    second: _boogus_4
+  - first:
+      213: 4235844664636134370
+    second: _boogus_5
+  - first:
+      213: -7103994812141477243
+    second: _boogus_6
+  - first:
+      213: -6373120604656909463
+    second: _boogus_7
+  - first:
+      213: 5376596068563744001
+    second: _boogus_8
+  - first:
+      213: 7877553610760329604
+    second: _boogus_9
+  - first:
+      213: 6097426015473427843
+    second: _boogus_10
+  - first:
+      213: -3993925923395385260
+    second: _boogus_11
+  - first:
+      213: 5800630464560040323
+    second: _boogus_12
+  - first:
+      213: -6678400161747368607
+    second: _boogus_13
+  - first:
+      213: 5657845738458655220
+    second: _boogus_14
+  - first:
+      213: 325674686105370601
+    second: _boogus_15
+  - first:
+      213: 5918524490089778146
+    second: _boogus_16
+  - first:
+      213: 896270827973936701
+    second: _boogus_17
+  - first:
+      213: -4328482837888436233
+    second: _boogus_18
+  - first:
+      213: 849013617616266401
+    second: _boogus_19
+  - first:
+      213: 4871538713530792099
+    second: _boogus_20
+  - first:
+      213: 2644876784525889391
+    second: _boogus_21
+  - first:
+      213: 4112347699253272573
+    second: _boogus_22
+  - first:
+      213: 4145500782467281199
+    second: _boogus_23
+  - first:
+      213: -4377078264382795923
+    second: _boogus_24
+  - first:
+      213: 7665439375894929497
+    second: _boogus_25
+  - first:
+      213: -4254258802206863435
+    second: _boogus_26
+  - first:
+      213: -4750651816564525342
+    second: _boogus_27
+  - first:
+      213: -7406250023856494004
+    second: _boogus_28
+  - first:
+      213: -6382179104264213889
+    second: _boogus_29
+  - first:
+      213: -8684559232270400554
+    second: _boogus_30
+  - first:
+      213: 6396500855338556417
+    second: _boogus_31
+  - first:
+      213: 4842095874928996276
+    second: _boogus_32
+  - first:
+      213: -4381610839199903079
+    second: _boogus_33
+  - first:
+      213: -2936035991584369436
+    second: _boogus_34
+  - first:
+      213: 5750505457388184454
+    second: _boogus_35
+  - first:
+      213: 8069427851655991938
+    second: _boogus_36
+  - first:
+      213: -1104878173825954496
+    second: _boogus_37
+  - first:
+      213: 4122415652320069352
+    second: _boogus_38
+  - first:
+      213: -1614210445335137532
+    second: _boogus_39
+  - first:
+      213: 7770199860697772086
+    second: _boogus_40
+  - first:
+      213: 5099806098910827025
+    second: _boogus_41
+  - first:
+      213: -6631299693590717604
+    second: _boogus_42
+  - first:
+      213: -5827248850153677646
+    second: _boogus_43
+  - first:
+      213: -2292698769740224192
+    second: _boogus_44
+  - first:
+      213: 2470522673648954269
+    second: _boogus_45
+  - first:
+      213: -7657343028620006388
+    second: _boogus_46
+  - first:
+      213: -8307197822637791985
+    second: _boogus_47
+  - first:
+      213: 1822387107524746467
+    second: _boogus_48
+  - first:
+      213: -6950887150460789701
+    second: _boogus_49
+  - first:
+      213: -3694170349005923107
+    second: _boogus_50
+  - first:
+      213: 5968060340975841461
+    second: _boogus_51
+  - first:
+      213: 8085166033794157993
+    second: _boogus_52
+  - first:
+      213: 2517610043948490116
+    second: _boogus_53
+  - first:
+      213: -3492915340720158075
+    second: _boogus_54
+  - first:
+      213: -7496795761925877306
+    second: _boogus_55
+  - first:
+      213: 8534526662255931905
+    second: _boogus_56
+  - first:
+      213: 5636768489353266988
+    second: _boogus_57
+  - first:
+      213: -8282719386738214308
+    second: _boogus_58
+  - first:
+      213: -4646581483560339503
+    second: _boogus_59
+  - first:
+      213: -1416358661579443814
+    second: _boogus_60
+  - first:
+      213: 9156148598574573850
+    second: _boogus_61
+  - first:
+      213: -1296395452935763911
+    second: _boogus_62
+  - first:
+      213: 7611343152050582054
+    second: _boogus_63
+  - first:
+      213: -4743906956663658851
+    second: _boogus_64
+  - first:
+      213: 5335721748513038495
+    second: _boogus_65
+  - first:
+      213: 6939381849220746240
+    second: _boogus_66
+  - first:
+      213: -6266347101869408276
+    second: _boogus_67
+  - first:
+      213: -549579475172050315
+    second: _boogus_68
+  - first:
+      213: 7048888795182887088
+    second: _boogus_69
+  - first:
+      213: 3203918045361647621
+    second: _boogus_70
+  - first:
+      213: 2824571963115500240
+    second: _boogus_71
+  - first:
+      213: -3964615358824432949
+    second: _boogus_72
+  - first:
+      213: -2449418665871829572
+    second: _boogus_73
+  - first:
+      213: 4424105622603589604
+    second: _boogus_74
+  - first:
+      213: 7961030005300883046
+    second: _boogus_75
+  - first:
+      213: 3093169499883619508
+    second: _boogus_76
+  - first:
+      213: 7085232928759316203
+    second: _boogus_77
+  - first:
+      213: 335067623840395178
+    second: _boogus_78
+  - first:
+      213: 3878720477879258525
+    second: _boogus_79
+  - first:
+      213: 3292206379096774730
+    second: _boogus_80
+  - first:
+      213: 475659468150948577
+    second: _boogus_81
+  - first:
+      213: -5925713852360782732
+    second: _boogus_82
+  - first:
+      213: -2813435997628155759
+    second: _boogus_83
+  - first:
+      213: 1697881257982785669
+    second: _boogus_84
+  - first:
+      213: 7479538739833361281
+    second: _boogus_85
+  - first:
+      213: -648339523623917010
+    second: _boogus_86
+  - first:
+      213: 3741307776440393367
+    second: _boogus_87
+  - first:
+      213: -8191939772941311422
+    second: _boogus_88
+  - first:
+      213: 8002402170319589187
+    second: _boogus_89
+  - first:
+      213: 3540431826569344771
+    second: _boogus_90
+  - first:
+      213: 6251350528118709332
+    second: _boogus_91
+  - first:
+      213: 989890311871130272
+    second: _boogus_92
+  - first:
+      213: 7690028818093778647
+    second: _boogus_93
+  - first:
+      213: -2619936701333337718
+    second: _boogus_94
+  - first:
+      213: -839457484926048618
+    second: _boogus_95
+  - first:
+      213: -8743967372953033033
+    second: _boogus_96
+  - first:
+      213: 462209040408186660
+    second: _boogus_97
+  - first:
+      213: 661173441705098107
+    second: _boogus_98
+  - first:
+      213: 7548140245339976417
+    second: _boogus_99
+  - first:
+      213: 1415667618866347251
+    second: _boogus_100
+  - first:
+      213: 8157774882585276284
+    second: _boogus_101
+  - first:
+      213: 4183256398197705712
+    second: _boogus_102
+  - first:
+      213: 8585862326671818409
+    second: _boogus_103
+  - first:
+      213: -7898516920476807243
+    second: _boogus_104
+  - first:
+      213: 4477829232204978387
+    second: _boogus_105
+  - first:
+      213: -7549321573929514700
+    second: _boogus_106
+  - first:
+      213: 7097060998029800483
+    second: _boogus_107
+  - first:
+      213: -1219449479205337895
+    second: _boogus_108
+  - first:
+      213: 2688192135414923002
+    second: _boogus_109
+  - first:
+      213: -340908344941741865
+    second: _boogus_110
+  - first:
+      213: 2843478285190226624
+    second: _boogus_111
+  - first:
+      213: 3887624560173798789
+    second: _boogus_112
+  - first:
+      213: -3694278662534572891
+    second: _boogus_113
+  - first:
+      213: 8100353403599095813
+    second: _boogus_114
+  - first:
+      213: -5790662555143801513
+    second: _boogus_115
+  - first:
+      213: -5049102402854482100
+    second: _boogus_116
+  - first:
+      213: 1031647075378863281
+    second: _boogus_117
+  - first:
+      213: -3334099658030366843
+    second: _boogus_118
+  - first:
+      213: 7871822401564491014
+    second: _boogus_119
+  - first:
+      213: 7254482928371665053
+    second: _boogus_120
+  - first:
+      213: -2044243246108239665
+    second: _boogus_121
+  - first:
+      213: -2729252283178936987
+    second: _boogus_122
+  - first:
+      213: 2721296335930286428
+    second: _boogus_123
+  - first:
+      213: -5830929073325000546
+    second: _boogus_124
+  - first:
+      213: 819228583546343436
+    second: _boogus_125
+  - first:
+      213: -5595789054522186754
+    second: _boogus_126
+  - first:
+      213: 5767045302161745968
+    second: _boogus_127
+  - first:
+      213: 1417732365778204644
+    second: _boogus_128
+  - first:
+      213: -2993516464218750428
+    second: _boogus_129
+  - first:
+      213: -2321810732951685999
+    second: _boogus_130
+  - first:
+      213: -5002586060978340103
+    second: _boogus_131
+  - first:
+      213: 6883873886819207112
+    second: _boogus_132
+  - first:
+      213: 233498264559507438
+    second: _boogus_133
+  - first:
+      213: 3212307167071946412
+    second: _boogus_134
+  - first:
+      213: -8483649655153289645
+    second: _boogus_135
+  - first:
+      213: 7579550680205198217
+    second: _boogus_136
+  - first:
+      213: 8051712714657724633
+    second: _boogus_137
+  - first:
+      213: -5678455564259250096
+    second: _boogus_138
+  - first:
+      213: 5469845759897424542
+    second: _boogus_139
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 210
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _boogus_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2678
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a018775eb5499cb70800000000000000
+      internalID: 8919823659396727050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2678
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e292fc1c784b66b10800000000000000
+      internalID: 1974463981813705006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2678
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61922ec18bb6e7ea0800000000000000
+      internalID: -5873138425541809898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2678
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08fb23b55eb74a90800000000000000
+      internalID: -7329680593234692081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2678
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1556df242f1123380800000000000000
+      internalID: -8993105773701798575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_5
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2678
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3de5fa74eb8ca30800000000000000
+      internalID: 4235844664636134370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_6
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 2678
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582e6106b5a896d90800000000000000
+      internalID: -7103994812141477243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_7
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 2678
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963c3b883902e87a0800000000000000
+      internalID: -6373120604656909463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_8
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2678
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105f08f43a18d9a40800000000000000
+      internalID: 5376596068563744001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_9
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 2678
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489177c9541b25d60800000000000000
+      internalID: 7877553610760329604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2472
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385e480d7a86e9450800000000000000
+      internalID: 6097426015473427843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2472
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4584bcc8889b298c0800000000000000
+      internalID: -3993925923395385260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2472
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3890969acaaff7050800000000000000
+      internalID: 5800630464560040323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_13
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2472
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1650323cf6e8153a0800000000000000
+      internalID: -6678400161747368607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_14
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2472
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f929caf8b4b48e40800000000000000
+      internalID: 5657845738458655220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_15
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2472
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efb5a9c667058400800000000000000
+      internalID: 325674686105370601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_16
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 2472
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb40428aa2d22250800000000000000
+      internalID: 5918524490089778146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_17
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 2472
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d368ee3c191307c00800000000000000
+      internalID: 896270827973936701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_18
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2472
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7f84fcac32ee3c0800000000000000
+      internalID: -4328482837888436233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_19
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 2472
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4ac7f036d48cb00800000000000000
+      internalID: 849013617616266401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2266
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8f09146ae2b9340800000000000000
+      internalID: 4871538713530792099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_21
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2266
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fc7502c6d74b420800000000000000
+      internalID: 2644876784525889391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2266
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffd2eeb17ef11930800000000000000
+      internalID: 4112347699253272573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_23
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2266
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21f0137ff6c78930800000000000000
+      internalID: 4145500782467281199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_24
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2266
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f4161628e7143c0800000000000000
+      internalID: -4377078264382795923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_25
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2266
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9506287cf7c116a60800000000000000
+      internalID: 7665439375894929497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_26
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 2266
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf81efc826d5f4c0800000000000000
+      internalID: -4254258802206863435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_27
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 2266
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e67b16c75b421eb0800000000000000
+      internalID: -4750651816564525342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_28
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2266
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a2e42e7d6b73990800000000000000
+      internalID: -7406250023856494004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_29
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 2266
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a296d3be1fd67a0800000000000000
+      internalID: -6382179104264213889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2060
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d30fa9146f3a7780800000000000000
+      internalID: -8684559232270400554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_31
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2060
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cdfe743afe4c850800000000000000
+      internalID: 6396500855338556417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_32
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2060
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfe6813b84923340800000000000000
+      internalID: 4842095874928996276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_33
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2060
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9921d7118246133c0800000000000000
+      internalID: -4381610839199903079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_34
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2060
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e41ad942da1147d0800000000000000
+      internalID: -2936035991584369436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_35
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2060
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683619afe36edcf40800000000000000
+      internalID: 5750505457388184454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_36
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 2060
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282599e90ed5cff60800000000000000
+      internalID: 8069427851655991938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_37
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 2060
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d8501a72faaa0f0800000000000000
+      internalID: -1104878173825954496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_38
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2060
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e64c0db133c53930800000000000000
+      internalID: 4122415652320069352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_39
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 2060
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403f215072c2999e0800000000000000
+      internalID: -1614210445335137532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1854
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6303ea2ea9b45db60800000000000000
+      internalID: 7770199860697772086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_41
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1854
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11253f480a626c640800000000000000
+      internalID: 5099806098910827025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_42
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1854
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b5e541014e8f3a0800000000000000
+      internalID: -6631299693590717604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_43
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1854
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc59cc7b04712fa0800000000000000
+      internalID: -5827248850153677646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_44
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1854
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049a8acbd92be20e0800000000000000
+      internalID: -2292698769740224192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_45
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1854
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9be464484f094220800000000000000
+      internalID: 2470522673648954269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_46
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1854
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c6ac7f517abb590800000000000000
+      internalID: -7657343028620006388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_47
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1854
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05a6cef797e6bc80800000000000000
+      internalID: -8307197822637791985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_48
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1854
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec934b3b6b6a4910800000000000000
+      internalID: 1822387107524746467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_49
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1854
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c15fac6fc798f90800000000000000
+      internalID: -6950887150460789701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1648
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc98bfd3ababbcc0800000000000000
+      internalID: -3694170349005923107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_51
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1648
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b036fd824fc2d250800000000000000
+      internalID: 5968060340975841461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_52
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1648
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adca52bba7443070800000000000000
+      internalID: 8085166033794157993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_53
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1648
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d51800ff850f220800000000000000
+      internalID: 2517610043948490116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_54
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1648
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58accddf00ca68fc0800000000000000
+      internalID: -3492915340720158075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_55
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1648
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c111c869f706f790800000000000000
+      internalID: -7496795761925877306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_56
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1648
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1027ddd08cab07670800000000000000
+      internalID: 8534526662255931905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_57
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1648
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2744018313d93e40800000000000000
+      internalID: 5636768489353266988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_58
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1648
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a3a3bf99edd0d80800000000000000
+      internalID: -8282719386738214308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_59
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1648
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d77a7462c6048fb0800000000000000
+      internalID: -4646581483560339503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1442
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91720e2d45185ce0800000000000000
+      internalID: -1416358661579443814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_61
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1442
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a196ab893ac211f70800000000000000
+      internalID: 9156148598574573850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_62
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1442
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93805534437420ee0800000000000000
+      internalID: -1296395452935763911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_63
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1442
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622b399254ce0a960800000000000000
+      internalID: 7611343152050582054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_64
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1442
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96ee88d1c14a2eb0800000000000000
+      internalID: -4743906956663658851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_65
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1442
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90227019aa4c0a40800000000000000
+      internalID: 5335721748513038495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_66
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1442
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c88938603ad4060800000000000000
+      internalID: 6939381849220746240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_67
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1442
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef76c9e2867909a0800000000000000
+      internalID: -6266347101869408276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_68
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1442
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a368e01608f58f0800000000000000
+      internalID: -549579475172050315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_69
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1442
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b07b1a330fa2d160800000000000000
+      internalID: 7048888795182887088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1236
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500be37bc7a967c20800000000000000
+      internalID: 3203918045361647621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_71
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1236
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2f6083c35e23720800000000000000
+      internalID: 2824571963115500240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_72
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1236
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca363a265bdaf8c0800000000000000
+      internalID: -3964615358824432949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_73
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1236
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb59f7273bae10ed0800000000000000
+      internalID: -2449418665871829572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_74
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1236
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e76814bf94956d30800000000000000
+      internalID: 4424105622603589604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_75
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1236
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e6f284c924b7e60800000000000000
+      internalID: 7961030005300883046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_76
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1236
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4c2a695452dea20800000000000000
+      internalID: 3093169499883619508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_77
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1236
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee799d3fcdc35260800000000000000
+      internalID: 7085232928759316203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_78
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1236
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafadb68a3666a400800000000000000
+      internalID: 335067623840395178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_79
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1236
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dc60b69bbf3d530800000000000000
+      internalID: 3878720477879258525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1030
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a489659424440bd20800000000000000
+      internalID: 3292206379096774730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_81
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1030
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2403124c1e99600800000000000000
+      internalID: 475659468150948577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_82
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1030
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c8c65a5a2a3cda0800000000000000
+      internalID: -5925713852360782732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_83
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1030
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198b31bcddaa4f8d0800000000000000
+      internalID: -2813435997628155759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_84
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1030
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5887bd42206109710800000000000000
+      internalID: 1697881257982785669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_85
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1030
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1835a870bd8acc760800000000000000
+      internalID: 7479538739833361281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_86
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1030
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2aec8863a2a007f0800000000000000
+      internalID: -648339523623917010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_87
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1030
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ed222b99bcbe330800000000000000
+      internalID: 3741307776440393367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_88
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1030
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2426074ed22605e80800000000000000
+      internalID: -8191939772941311422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_89
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1030
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fc6b7106e3e0f60800000000000000
+      internalID: 8002402170319589187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307372efcf3222130800000000000000
+      internalID: 3540431826569344771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_91
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 824
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c57fa2f2241c650800000000000000
+      internalID: 6251350528118709332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_92
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 824
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaeda57efbccbd00800000000000000
+      internalID: 989890311871130272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_93
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 824
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d62ffe677878ba60800000000000000
+      internalID: 7690028818093778647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_94
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 824
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89840f737d14abd0800000000000000
+      internalID: -2619936701333337718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_95
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 824
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696a0f67dd5a954f0800000000000000
+      internalID: -839457484926048618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_96
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 824
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b66787700037a680800000000000000
+      internalID: -8743967372953033033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_97
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 824
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f01816ca81a6600800000000000000
+      internalID: 462209040408186660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_98
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 824
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b31cffdb5fc2900800000000000000
+      internalID: 661173441705098107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_99
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 824
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2b156bf8160c860800000000000000
+      internalID: 7548140245339976417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 618
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc3d86e23675a310800000000000000
+      internalID: 1415667618866347251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_101
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 618
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f6912b80d363170800000000000000
+      internalID: 8157774882585276284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_102
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 618
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb44f2c789ed0a30800000000000000
+      internalID: 4183256398197705712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_103
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 618
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aebea7db4c172770800000000000000
+      internalID: 8585862326671818409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_104
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 618
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf419e75b4d26290800000000000000
+      internalID: -7898516920476807243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_105
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 618
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8107e46f1742e30800000000000000
+      internalID: 4477829232204978387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_106
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 618
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4390dbac60c6b3790800000000000000
+      internalID: -7549321573929514700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_107
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 618
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32478d83063dd7260800000000000000
+      internalID: 7097060998029800483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_108
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 618
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d44e6ad825a31fe0800000000000000
+      internalID: -1219449479205337895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_109
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 618
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeb76721806e4520800000000000000
+      internalID: 2688192135414923002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8f7ce9aa9d44bf0800000000000000
+      internalID: -340908344941741865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_111
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 412
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2ec4b5f60167720800000000000000
+      internalID: 2843478285190226624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_112
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 412
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5855e31a0fd93f530800000000000000
+      internalID: 3887624560173798789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_113
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 412
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4525a21294bbcc0800000000000000
+      internalID: -3694278662534572891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_114
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 412
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50886a8c08c3a6070800000000000000
+      internalID: 8100353403599095813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_115
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 412
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7557f7a161f63afa0800000000000000
+      internalID: -5790662555143801513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_116
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 412
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f894bad1cfde9b0800000000000000
+      internalID: -5049102402854482100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_117
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 412
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc17859c85215e00800000000000000
+      internalID: 1031647075378863281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_118
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 412
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f395d9606eab1d0800000000000000
+      internalID: -3334099658030366843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_119
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 412
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60db63c74c45e3d60800000000000000
+      internalID: 7871822401564491014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d988ab699c91da460800000000000000
+      internalID: 7254482928371665053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_121
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 206
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc81a39399361a3e0800000000000000
+      internalID: -2044243246108239665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_122
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 206
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56512b6328fbf1ad0800000000000000
+      internalID: -2729252283178936987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_123
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 206
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5162b7799cf3c520800000000000000
+      internalID: 2721296335930286428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_124
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 206
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9837f1c6e0641fa0800000000000000
+      internalID: -5830929073325000546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_125
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 206
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0050286e0c7e5b00800000000000000
+      internalID: 819228583546343436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_126
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 206
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3af2fa083c752b0800000000000000
+      internalID: -5595789054522186754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_127
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 206
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038afeea529a80050800000000000000
+      internalID: 5767045302161745968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_128
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 206
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7b8c0431ccca310800000000000000
+      internalID: 1417732365778204644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_129
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 206
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42245f8d2a4e476d0800000000000000
+      internalID: -2993516464218750428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194b9ba907547cfd0800000000000000
+      internalID: -2321810732951685999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_131
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9feb01d7b7e339ab0800000000000000
+      internalID: -5002586060978340103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_132
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c74276e3de688f50800000000000000
+      internalID: 6883873886819207112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_133
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee75dba3f6d8d3300800000000000000
+      internalID: 233498264559507438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_134
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6c3c25958649c20800000000000000
+      internalID: 3212307167071946412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_135
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35619b14695044a80800000000000000
+      internalID: -8483649655153289645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_136
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 0
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98383ba7f29ff2960800000000000000
+      internalID: 7579550680205198217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_137
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 0
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d87baedd0e6dbf60800000000000000
+      internalID: 8051712714657724633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _boogus_138
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 0
+        width: 220
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050bc7300c21231b0800000000000000
+      internalID: -5678455564259250096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      _boogus_109: 2688192135414923002
+      _boogus_68: -549579475172050315
+      _boogus_7: -6373120604656909463
+      _boogus_88: -8191939772941311422
+      _boogus_123: 2721296335930286428
+      _boogus_115: -5790662555143801513
+      _boogus_46: -7657343028620006388
+      _boogus_131: -5002586060978340103
+      _boogus_112: 3887624560173798789
+      _boogus_70: 3203918045361647621
+      _boogus_13: -6678400161747368607
+      _boogus_1: 1974463981813705006
+      _boogus_14: 5657845738458655220
+      _boogus_76: 3093169499883619508
+      _boogus_129: -2993516464218750428
+      _boogus_18: -4328482837888436233
+      _boogus_111: 2843478285190226624
+      _boogus_135: -8483649655153289645
+      _boogus_107: 7097060998029800483
+      _boogus_74: 4424105622603589604
+      _boogus_106: -7549321573929514700
+      _boogus_32: 4842095874928996276
+      _boogus_3: -7329680593234692081
+      _boogus_6: -7103994812141477243
+      _boogus_82: -5925713852360782732
+      _boogus_42: -6631299693590717604
+      _boogus_29: -6382179104264213889
+      _boogus_31: 6396500855338556417
+      _boogus_69: 7048888795182887088
+      _boogus_121: -2044243246108239665
+      _boogus_90: 3540431826569344771
+      _boogus_119: 7871822401564491014
+      _boogus_61: 9156148598574573850
+      _boogus_44: -2292698769740224192
+      _boogus_136: 7579550680205198217
+      _boogus_127: 5767045302161745968
+      _boogus_50: -3694170349005923107
+      _boogus_28: -7406250023856494004
+      _boogus_9: 7877553610760329604
+      _boogus_59: -4646581483560339503
+      _boogus_97: 462209040408186660
+      _boogus_137: 8051712714657724633
+      _boogus_10: 6097426015473427843
+      _boogus_101: 8157774882585276284
+      _boogus_96: -8743967372953033033
+      _boogus_45: 2470522673648954269
+      _boogus_120: 7254482928371665053
+      _boogus_66: 6939381849220746240
+      _boogus_23: 4145500782467281199
+      _boogus_99: 7548140245339976417
+      _boogus_75: 7961030005300883046
+      _boogus_21: 2644876784525889391
+      _boogus_51: 5968060340975841461
+      _boogus_85: 7479538739833361281
+      _boogus_102: 4183256398197705712
+      _boogus_30: -8684559232270400554
+      _boogus_93: 7690028818093778647
+      _boogus_104: -7898516920476807243
+      _boogus_71: 2824571963115500240
+      _boogus_25: 7665439375894929497
+      _boogus_84: 1697881257982785669
+      _boogus_92: 989890311871130272
+      _boogus_33: -4381610839199903079
+      _boogus_4: -8993105773701798575
+      _boogus_12: 5800630464560040323
+      _boogus_37: -1104878173825954496
+      _boogus_78: 335067623840395178
+      _boogus_98: 661173441705098107
+      _boogus_38: 4122415652320069352
+      _boogus_125: 819228583546343436
+      _boogus_34: -2936035991584369436
+      _boogus_52: 8085166033794157993
+      _boogus_79: 3878720477879258525
+      _boogus_19: 849013617616266401
+      _boogus_58: -8282719386738214308
+      _boogus_54: -3492915340720158075
+      _boogus_87: 3741307776440393367
+      _boogus_77: 7085232928759316203
+      _boogus_20: 4871538713530792099
+      _boogus_103: 8585862326671818409
+      _boogus_91: 6251350528118709332
+      _boogus_64: -4743906956663658851
+      _boogus_53: 2517610043948490116
+      _boogus_83: -2813435997628155759
+      _boogus_114: 8100353403599095813
+      _boogus_100: 1415667618866347251
+      _boogus_0: 8919823659396727050
+      _boogus_95: -839457484926048618
+      _boogus_81: 475659468150948577
+      _boogus_86: -648339523623917010
+      _boogus_113: -3694278662534572891
+      _boogus_11: -3993925923395385260
+      _boogus_108: -1219449479205337895
+      _boogus_117: 1031647075378863281
+      _boogus_5: 4235844664636134370
+      _boogus_122: -2729252283178936987
+      _boogus_41: 5099806098910827025
+      _boogus_116: -5049102402854482100
+      _boogus_72: -3964615358824432949
+      _boogus_65: 5335721748513038495
+      _boogus_36: 8069427851655991938
+      _boogus_27: -4750651816564525342
+      _boogus_130: -2321810732951685999
+      _boogus_17: 896270827973936701
+      _boogus_24: -4377078264382795923
+      _boogus_15: 325674686105370601
+      _boogus_2: -5873138425541809898
+      _boogus_16: 5918524490089778146
+      _boogus_35: 5750505457388184454
+      _boogus_26: -4254258802206863435
+      _boogus_57: 5636768489353266988
+      _boogus_94: -2619936701333337718
+      _boogus_63: 7611343152050582054
+      _boogus_132: 6883873886819207112
+      _boogus_138: -5678455564259250096
+      _boogus_110: -340908344941741865
+      _boogus_133: 233498264559507438
+      _boogus_105: 4477829232204978387
+      _boogus_124: -5830929073325000546
+      _boogus_126: -5595789054522186754
+      _boogus_67: -6266347101869408276
+      _boogus_40: 7770199860697772086
+      _boogus_49: -6950887150460789701
+      _boogus_134: 3212307167071946412
+      _boogus_128: 1417732365778204644
+      _boogus_47: -8307197822637791985
+      _boogus_22: 4112347699253272573
+      _boogus_56: 8534526662255931905
+      _boogus_8: 5376596068563744001
+      _boogus_39: -1614210445335137532
+      _boogus_62: -1296395452935763911
+      _boogus_55: -7496795761925877306
+      _boogus_48: 1822387107524746467
+      _boogus_80: 3292206379096774730
+      _boogus_89: 8002402170319589187
+      _boogus_73: -2449418665871829572
+      _boogus_118: -3334099658030366843
+      _boogus_60: -1416358661579443814
+      _boogus_43: -5827248850153677646
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
